@@ -14,7 +14,8 @@ Want to download our latest mods, chat with the team, or see what we are cooking
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Vekendian)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@.vekendian)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vekendian)
-[![Email](https://img.shields.io/badge/Email-Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vekendian@gmail.com)
+[![Email](https://img.shields.io/badge/Email-vekendian%40gmail.com-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vekendian@gmail.com)
+
 
 ---
 
