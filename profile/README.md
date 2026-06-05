@@ -1,38 +1,72 @@
-# 🏎️ Welcome to Vekendian
+🏎️ Welcome to VEKENDIAN
 
-We are a passionate modding organization dedicated to pushing the limits of mobile gaming! Our focus centers on developing advanced game modifications, custom utility tools (such as modded GameGuardian builds), and open-source resources for players and developers alike.
+«The less they see, the more we control.»
 
----
+VEKENDIAN is an independent modding and development collective focused on mobile gaming, custom tooling, and experimental projects.
 
-## 🌐 Join the Community & Stay Updated
+We build game modifications, scripts, utility software, and developer tools designed to improve gameplay, streamline workflows, and explore what's possible beyond the limits of stock experiences.
 
-Want to download our latest tools, chat with the team, or see what we are cooking? Connect with us on our official platforms:
-
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/pEQGhXQwqe)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vekendianorg)
-[![X / Twitter](https://img.shields.io/badge/X%20/%20Twitter-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Vekendian)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Vekendian)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@.vekendian)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vekendian)
-[![Email](https://img.shields.io/badge/Email-vekendian%40gmail.com-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vekendian@gmail.com)
+Whether it's a custom GameGuardian build, a quality-of-life script, or a new framework powering future projects, we're always building something.
 
 ---
 
-## 🛠️ What We Do
+🌐 Community & Socials
 
-*   **⚙️ Custom Game Tools:** Developing and modifying essential memory editing software, custom environments, and game utilities (like optimized GameGuardian variations).
-*   **🎮 Game Modding:** Engineering high-quality modifications, scripts, and patches for various popular mobile titles (including Hill Climb Racing 2 and beyond).
-*   **📂 Mixed-Source Ecosystem:** While our flagship tools and private projects remain exclusive, we are highly committed to open-sourcing our core utility libraries and frameworks to support the wider modding scene.
-*   **🎥 Showcases & Previews:** Posting tool tutorials, mod teasers, and gameplay highlights across YouTube, TikTok, and Instagram.
+Want to chat with the team, test upcoming releases, or follow development progress? Join us on our official platforms:
+
+""Discord" (https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)" (https://discord.gg/pEQGhXQwqe)
+""GitHub" (https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/vekendianorg)
+""X / Twitter" (https://img.shields.io/badge/X%20/%20Twitter-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)" (https://x.com/Vekendian)
+""YouTube" (https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)" (https://www.youtube.com/@Vekendian)
+""TikTok" (https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white)" (https://www.tiktok.com/@.vekendian)
+""Instagram" (https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)" (https://www.instagram.com/vekendian)
+""Email" (https://img.shields.io/badge/Email-vekendian%40gmail.com-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)" (mailto:vekendian@gmail.com)
 
 ---
 
-## 🤝 Collaboration & Contributions
+🛠️ What We Build
 
-Are you a developer, reverse engineer, or script writer? We love collaborating with the community! 
+⚙️ Custom Tools
 
-*   Check out our public repositories to see what we've open-sourced so far.
-*   Open an issue or submit a PR if you want to improve our public tools.
-*   Join our Discord to talk directly with us and get access to our latest releases.
+Development and customization of utility software, memory-editing environments, and modding tools tailored for mobile platforms.
 
-> ⚠️ **Disclaimer:** Vekendian is an independent modding group. Any third-party tools, game assets, or trademarks mentioned belong entirely to their respective owners.
+🎮 Game Modifications
+
+Scripts, patches, enhancements, and experimental features for supported mobile games, including community-driven projects and internal research.
+
+📂 Open-Source Projects
+
+While some flagship tools remain private, we actively open-source libraries, frameworks, and utilities that can benefit developers and modders across the community.
+
+🎥 Content & Showcases
+
+Development previews, tutorials, feature demonstrations, project updates, and gameplay showcases published across our social platforms.
+
+---
+
+🤝 Contributing
+
+We're always interested in collaborating with developers, reverse engineers, designers, and script authors.
+
+You can help by:
+
+- Exploring our public repositories.
+- Reporting issues and suggesting improvements.
+- Submitting pull requests to open-source projects.
+- Joining our Discord community and sharing ideas.
+
+Every contribution, large or small, helps move the ecosystem forward.
+
+---
+
+🚀 Current Direction
+
+VEKENDIAN started in game modding, but our vision extends beyond individual modifications.
+
+Our goal is to build tools, frameworks, and projects that empower both players and developers while fostering an active and creative community around experimentation and learning.
+
+---
+
+«⚠️ Disclaimer
+
+VEKENDIAN is an independent community organization. All third-party software, game assets, trademarks, and intellectual property belong to their respective owners.»
