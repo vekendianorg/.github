@@ -1,6 +1,45 @@
 🏎️ Welcome to VEKENDIAN
 
-«The less they see, the more we control.»
+
+
+                                   .......                        .......
+                              ...,cdkOxc,.                        'ooOOko:,...
+                           ..,oOKWMMK:.                            ...oNMMNKkc'...
+                          .;xNMXKNMX.                                  :MMX0NMKo,...
+                       ..,xNNkc,;XM:                                   .OMX;;o0WKd:,...
+                     ..:kNNx;. .'WN.                                    :WW;. .lOWNk,.. .
+                   ..:xWWk,.;'...0X.                                    lNK'''c,.cOWXc..
+                .  .,0Wk,''..',::oxl                   ..:o,'..;.      .k0xdxl,..,':KWx'..
+                  .;KMx.:c..;,,:clll; ..       .. .'c'cllc:cokXo   .. .ok00Odc;,.,l;,XMk,.
+               .';,0Mk,lc'..',,;,:;lkc,:ll'  ..,',..      .;clo..;oc:lO0xxxol:,...'l::XWd'..
+                .'kM0;;:......''',';kdoc,lXOl,,,''...   ,;,...;dK0::dkKxc;;,;,....'':;cNMk'.
+              ..,xWNcc;,,','...,;;.'c0xc;':KWNKOd'        :xOXWWk,;lx00:,;:;;...'''';;loMMd..
+               .lMMdd:l;.,:'.. .cc,.,ko;..':XWWWX.        :WWWWk::dok0d'':lc. ..;:'.:lclKMN,.
+              .'0MNxxlc.;d' ....'',:',oc,'',cWMWN.        :WWMX,:dxlol';:,''.....;O,'o;0xMMo.
+              .,WMXX;k'.c...'''o;;;',,,',cl'.OMMMl..    ..KMMWc'lkc',',''c,:c';...':.llx0WMO..
+              .:MMN0'c.''','o,odcKkxl,...,;:,'OMMN:o.  ;coMMMd';c;,...;oxK0lkc:c':.'..c:NWMN'.
+              .cMMWO'.'oc;;:ooO,0l;c.     .',,,OMMO.    ,WMWx;';..     .o'ddc0cl:l.:l.''WWMN'.
+              .;MMMk',cxocd,l;..,        .lc,,cxWWWc   .0WWXdc.c'c.        ' c'lcx,ck:''WWMX'.
+              .,NMMO;clO,cO.'            ,c,.. .ONNX.  lNNNo. .'.;;            ',X,;Olc,WMMk'.
+              .'OMMX;xoO.,d             ..c...  .0XXx..XXXd.....,.;.             0.,0dlcMMMl..
+               .cWMW;kxx..c             .........:KKKldKK0.,o,  .lc.             l.'0OcdMMX,.
+              ..,oWMxlK0. .           ..    'do;..x0O00O0;':.    ,;::,'. ...     . :0K;XMMl..
+              ...;kMN;xKo                   lKdo:;,Okkkkd  .         ...   .      .x0clMWx,.
+             .. .;,0MO,lX'                 .'.     ckxxk.                         '0;;NMd,,.
+                  ':XMc.;l                         .xddl                         .x;.OMO'. .
+                 ...cXX,...                         :kk.                         ...lWO,..
+                   .':0Xc.                           o:                           .lWx,'
+                   ...'dNk.                                                     .,OXc..
+                      ..,dk'                                                    cOo'.
+                         .'x;                                                 .oo..
+                           .;,.                                              .;'
+                              .                                             ..
+
+
+
+
+                                 "The less they see, the more we control."
+
 
 VEKENDIAN is an independent modding and development collective focused on mobile gaming, custom tooling, and experimental projects.
 
