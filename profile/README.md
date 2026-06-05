@@ -14,13 +14,13 @@ Whether it's a custom GameGuardian build, a quality-of-life script, or a new fra
 
 Want to chat with the team, test upcoming releases, or follow development progress? Join us on our official platforms:
 
-""Discord" (https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)" (https://discord.gg/pEQGhXQwqe)
-""GitHub" (https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/vekendianorg)
-""X / Twitter" (https://img.shields.io/badge/X%20/%20Twitter-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)" (https://x.com/Vekendian)
-""YouTube" (https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)" (https://www.youtube.com/@Vekendian)
-""TikTok" (https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white)" (https://www.tiktok.com/@.vekendian)
-""Instagram" (https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)" (https://www.instagram.com/vekendian)
-""Email" (https://img.shields.io/badge/Email-vekendian%40gmail.com-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)" (mailto:vekendian@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/pEQGhXQwqe)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vekendianorg)
+[![X / Twitter](https://img.shields.io/badge/X%20/%20Twitter-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Vekendian)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Vekendian)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@.vekendian)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vekendian)
+[![Email](https://img.shields.io/badge/Email-vekendian%40gmail.com-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vekendian@gmail.com)
 
 ---
 
